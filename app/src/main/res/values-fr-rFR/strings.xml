@@ -3,4 +3,9 @@
     <string name="app_name">lab1</string>
     <string name="hello_message">Bonjour!</string>
     <string name="ButtonText">je suis un boutton </string>
+    <string name="TextView">Voici mes widgets: </string>
+    <string name="Button">Bouton</string>
+    <string name="checkBox2">Regarde ça</string>
+    <string name="switch2">Allumer / éteindre</string>
+    <string name="editText">Tapez votre réponse ici</string>
 </resources>

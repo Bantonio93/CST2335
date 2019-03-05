@@ -18,7 +18,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/textView"
         android:layout_toLeftOf="@id/imageButton"
-        android:layout_weight="1"
         android:text="@string/Button" />
 
     <ImageButton
@@ -28,21 +27,17 @@
         android:layout_below="@id/textView"
         android:layout_gravity="fill"
         android:layout_alignParentRight="true"
-        android:layout_weight="1"
         app:srcCompat="@drawable/flag" />
     <CheckBox
         android:id="@+id/checkBox2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/imageButton"
-
-        android:layout_weight="1"
         android:text="@string/checkBox2" />
     <Switch
         android:id="@+id/switch2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
         android:layout_below="@id/imageButton"
         android:layout_alignStart="@id/imageButton"
         android:text="@string/switch2" />

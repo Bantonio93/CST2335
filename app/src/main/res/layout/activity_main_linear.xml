@@ -70,7 +70,7 @@
             android:layout_height="match_parent"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="@string/editText" />
+            android:text="Type your answer here " />
     </LinearLayout>
 
 

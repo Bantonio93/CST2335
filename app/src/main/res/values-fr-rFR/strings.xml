@@ -8,4 +8,19 @@
     <string name="checkBox2">Regarde ça</string>
     <string name="switch2">Allumer / éteindre</string>
     <string name="editText">Tapez votre réponse ici</string>
+    <string name="emailAddress">Entrez votre addresse courriel:</string>
+    <string name="emailHint">Ecrivez votre courriel ici</string>
+    <string name="password">Entrez votre Mot de passe:</string>
+    <string name="Login">CONNECTEZ-VOUS</string>
+    <string name="Yourprofile">Ton Profile</string>
+    <string name="name">Ton Nom:</string>
+    <string name="inputName">Entrez votre nom</string>
+    <string name="inputEmail">Ton Courriel:</string>
+    <string name="YourPicture">Ta Photo</string>
+    <string name="takePicture">Cliquez sur le bouton au dessus pour prendre une photo</string>
+    <string name="gotochat">Aller dans la conversation</string>
+    <string name="send">Envoyer </string>
+    <string name="receive">Recevoir</string>
+    <string name="typeChat">Tapez ici</string>
+
 </resources>
